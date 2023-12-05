@@ -1,0 +1,23 @@
+.zap {
+    color: rgb(7, 216, 52);
+    font-size: 100px;
+
+}
+
+.face {
+    color: rgb(0, 102, 255);
+    font-size: 100px;
+
+}
+
+.insta {
+    color: rgb(255, 0, 55);
+    font-size: 100px;
+}
+.call{
+    color: rgb(29, 29, 29);
+    font-size: 100px;
+}
+.contato{
+    margin-bottom: 200px;
+}

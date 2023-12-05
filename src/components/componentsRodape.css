@@ -1,0 +1,62 @@
+.rodape {
+    background-image: url('../images/fundo.png');
+    color: white;
+
+
+
+}
+
+.title {
+    color: rgb(88, 63, 235);
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+
+
+.marg {
+    margin-top: 40px;
+}
+
+.horario {
+    list-style-type: none;
+    color: rgb(88, 63, 235);
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.img {
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+
+}
+
+.zapp {
+    color: rgb(7, 216, 52);
+    font-size: 40px;
+    margin-top: 2px;
+}
+
+.facee {
+    color: rgb(0, 102, 255);
+    font-size: 36px;
+    margin-top: 4px;
+}
+
+.icons {
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+
+
+}
+
+.hrpe {
+    background-color: rgb(27, 11, 117);
+    ;
+}
+.semana{
+    list-style-type: none;
+}

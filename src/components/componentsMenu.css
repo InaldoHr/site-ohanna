@@ -1,0 +1,41 @@
+.barra {
+    background-image: url(https://i.pinimg.com/736x/88/53/98/885398c8597a0821aeda97831965e4f6.jpg);
+
+
+}
+
+/* nao funciona (deixar os botões do menu separados) */
+
+.navbar-nav .nav-link {
+    margin-right: 10px !important;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 10px !important;
+}
+
+.barra {
+    justify-content: space-between !important;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 10px !important;
+}
+
+.nav {
+    color: #B30202;
+}
+
+hr {
+
+    position: relative;
+    border: none;
+    height: 12px;
+    background-color: rgb(88,63,235);
+
+    opacity: 1;
+}
+
+button {
+    background-color: #B30202;
+}
